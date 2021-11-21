@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @salihpehlivan
+- I`m a network engineer
 - 👀 I’m interested in Cloud and Automation
 - 🌱 I’m currently learning AWS/DEVOPS
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me salihpehlivan@gmail.com
 
 <!---
