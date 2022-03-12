@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Salih Pehlivan @salihpehlivan
+- 👋 Hi, I’m Salih Pehlivan
 - I`m a network expert and DevOps engineer
 - 👀 I’m interested in Cloud Technologies and Network Automation
 - 🌱 I’m currently learning AWS/DevOps
