@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Salih Pehlivan
-- I`m a network expert and DevOps engineer
-- 👀 I’m interested in Cloud Technologies and Network Automation
-- 🌱 I’m currently learning AWS/DevOps
+- I`m a network expert and DevOps engineer, working as a consultant of VP and executive GM.
+- 👀 I’m interested in Cloud Technologies and Network Automation, and DevOps
 - 📫 How to reach me salihpehlivan@gmail.com
 
 <!---
